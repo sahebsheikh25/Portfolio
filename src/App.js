@@ -6,7 +6,6 @@ function App() {
   return (
     <div>
       <Main />
-      {console.log("App component rendered")}
     </div>
   );
 }
